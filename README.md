@@ -1,4 +1,4 @@
 # coursera-test
 coursera repositora
 
-theme: architect
+theme: minima
